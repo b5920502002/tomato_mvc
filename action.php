@@ -4,7 +4,7 @@
 //kai kai
 //bla bla
 //from jab
-//ffffff
+//ffffff5555555
 if(isset($_POST['comment'])){
     $comment=$_POST['comment'];
 }if(isset($_POST['g-recaptcha-response'])){
